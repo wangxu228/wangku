@@ -1,0 +1,192 @@
+.container-fluid {
+  padding: 0;
+}
+.container-fluid .header .top {
+  height: 44px;
+  line-height: 44px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+}
+.container-fluid .header .top .zuo {
+  float: left;
+  flex: 1;
+  color: pink;
+}
+.container-fluid .header .top .zhong {
+  float: left;
+  margin: 0 auto;
+  text-align: center;
+  flex: 1;
+  font-size: 20px;
+}
+.container-fluid .header .top .you {
+  float: right;
+  line-height: 44px;
+  flex: 1;
+  color: pink;
+}
+.container-fluid .header .top-img {
+  width: 100%;
+}
+.container-fluid .header .top-img a {
+  width: 100%;
+}
+.container-fluid .header .top-img a img {
+  width: 100%;
+}
+.container-fluid .header .ban {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+.container-fluid .header .ban ul {
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-fluid .header .ban ul li {
+  width: 33.33%;
+  flex: 1;
+}
+.container-fluid .header .ban ul a {
+  width: 33.33%;
+}
+.container-fluid .header .ban ul a img {
+  width: 100%;
+}
+.container-fluid .header .da {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+.container-fluid .header .da ul {
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-fluid .header .da ul li {
+  width: 33.33%;
+  flex: 1;
+}
+.container-fluid .header .da ul a {
+  width: 33.33%;
+}
+.container-fluid .header .da ul a img {
+  width: 100%;
+}
+.container-fluid .header .ner {
+  width: 100%;
+}
+.container-fluid .header .ner ul {
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-fluid .header .ner ul li {
+  width: 33.33%;
+  flex: 1;
+  border: 1px solid #ccc;
+}
+.container-fluid .header .ner ul a {
+  width: 33.33%;
+}
+.container-fluid .header .ner ul a img {
+  width: 100%;
+}
+.container-fluid .header .xiao {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+.container-fluid .header .xiao ul {
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-fluid .header .xiao ul li {
+  width: 33.33%;
+  flex: 1;
+  border: 1px solid #ccc;
+}
+.container-fluid .header .xiao ul a {
+  width: 33.33%;
+}
+.container-fluid .header .xiao ul a img {
+  width: 100%;
+}
+.container-fluid .header .xiao ul ul {
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-fluid .header .xiao ul ul li {
+  width: 33.33%;
+  flex: 1;
+}
+.container-fluid .header .xiao ul ul a {
+  width: 33.33%;
+}
+.container-fluid .header .xiao ul ul a img {
+  width: 100%;
+}
+.container-fluid .header .img {
+  width: 100%;
+  display: flex;
+}
+.container-fluid .header .img .sheng {
+  flex: 1;
+}
+.container-fluid .header .img .sheng a {
+  width: 100%;
+}
+.container-fluid .header .img .sheng a img {
+  width: 100%;
+}
+.container-fluid .header .img .chan {
+  flex: 1;
+}
+.container-fluid .header .img .chan a {
+  width: 100%;
+}
+.container-fluid .header .img .chan a img {
+  width: 100%;
+}
+.container-fluid .main .hot {
+  width: 100%;
+}
+.container-fluid .main .hot img {
+  width: 100%;
+}
+.container-fluid .maina .big {
+  display: flex;
+  background-color: #f1f1f1;
+}
+.container-fluid .maina .big h2 {
+  flex: 1;
+  font-size: 18px;
+  text-align: center;
+}
+.container-fluid .maina .big h2:hover {
+  color: purple;
+  border-bottom: 1px solid purple;
+}
+.container-fluid .maina .small {
+  margin-bottom: 20px;
+}
+.container-fluid .maina .small .up {
+  width: 100%;
+}
+.container-fluid .maina .small .up img {
+  width: 100%;
+}
+.container-fluid .maina .small .down {
+  font-size: 20px;
+  background-color: #fff;
+}
